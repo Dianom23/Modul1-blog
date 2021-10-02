@@ -25,7 +25,7 @@ h1, p{
 }
 .footer3{
     height: 150px;
-    color: white;
+    color: green;
     background-color: black;
     display: flex;
     flex-direction: column;
